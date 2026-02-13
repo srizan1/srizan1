@@ -4,7 +4,7 @@ This profile reflects **my journey** as a curious developer who is **continuousl
 **exploring new technologies while building practical solutions**.  
 
 My interests span across **Computer Vision, Machine Learning, IoT Systems, Drone Technology, Backend Development, and Databases**,  
-along with creative **Photo Editing using Photoshop and Lightroom**.  
+along with creative **Photo Editing using Photoshop and Adobe Lightroom**.  
 
 I enjoy experimenting, automating ideas, and turning concepts into **real-world implementations** —  
 blending technology with creativity wherever possible.  
@@ -31,18 +31,26 @@ blending technology with creativity wherever possible.
 
 **Backend & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,mongodb,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,mysql,mongodb,aws" />
 </p>
+
+> Spring icon represents **Spring Boot**
+
+---
 
 **IoT & Hardware**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <img src="https://cdn.simpleicons.org/eclipse-mosquitto/3C5280" height="48"/>
+  <img src="https://cdn.simpleicons.org/eclipse-mosquitto/3C5280" height="48" title="Eclipse Mosquitto MQTT Broker"/>
 </p>
 
-**Tools & Design**
+---
+
+**Design & Editing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,lightroom,postman" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="48" title="Adobe Photoshop"/>
+  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="48" title="Adobe Lightroom"/>
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
